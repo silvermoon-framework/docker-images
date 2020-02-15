@@ -1,4 +1,4 @@
-FROM silvermoonframework/php-7-4:latest
+FROM silvermoonframework/php-7.4:latest
 
 COPY xdebug.ini /etc/php/7.4/mods-available/xdebug.ini
 
