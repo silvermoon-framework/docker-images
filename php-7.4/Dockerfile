@@ -28,6 +28,7 @@ RUN apt-get install -y \
         php7.4-xmlrpc \
         php7.4-xsl \
         php7.4-bz2 \
+        php7.4-gmp \
         php-apcu \
         php-redis \
         php-memcache \
