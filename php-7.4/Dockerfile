@@ -1,4 +1,4 @@
-FROM debian:10.1-slim
+FROM debian:stable-slim
 
 RUN apt-get update \
    && apt-get install -y git curl wget python build-essential vim parallel rsync unzip zip \
